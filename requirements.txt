@@ -1,0 +1,3 @@
+# No external packages needed.
+# Uses only the Python standard library (tkinter, random, time).
+# Python 3.8 or higher is required.

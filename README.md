@@ -27,7 +27,7 @@ agent makes a random guess and labels it as a guess.
 
 ## How to Run
 1. Download or clone this repository:
-   `git clone https://github.com/rahilratan06/<repo-name>.git`
+   `git clone https://github.com/rahilratan06/Minesweeper-Logical-Agent.git`
 2. Open the folder in a terminal.
 3. Run:
    `python main.py`
@@ -45,4 +45,4 @@ agent makes a random guess and labels it as a guess.
 - `main.py`: entry point
 
 ## Author
-[Your Name], [Registration Number]
+Rahil Ratan, 2430030229
